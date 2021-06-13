@@ -4,7 +4,7 @@
 > https://pihu1998.github.io/
 
 ![GitHub stars](https://img.shields.io/github/stars/Pihu1998/Pihu1998.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/Pihu1998.github.io)
+![GitHub forks](https://img.shields.io/github/forks/Pihu1998/Pihu1998.github.io)
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/Pihu1998/varadbhogayata.github.io/commits/master)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://Pihu1998.github.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/pranamika-pandey-7a3610171//)
